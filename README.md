@@ -1,3 +1,3 @@
 
-Simple vk bot, now he can receive a message /test  
+Template of vk bot, now he can receive a message /test  
 https://vk.com/public201051237
